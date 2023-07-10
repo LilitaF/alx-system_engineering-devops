@@ -1,2 +1,2 @@
 #!/bin/bash
-rev -i "c"
+rev -i '^[c]'
