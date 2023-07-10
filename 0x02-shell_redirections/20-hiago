@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -i '^[c]'
+cut -i '^[c:C]'
